@@ -46,11 +46,29 @@ SQL (PostgreSQL), Python (pandas, matplotlib, plotly), Power BI (data modelling,
 
 ## Dashboard preview
 
-| | |
+### Power BI dashboard
+
+**Page 1: Executive Summary**
+
+![Executive Summary](images/Dashboard%20Screenshot%201.png)
+
+**Page 2: Customer Segmentation**
+
+![Customer Segmentation](images/Dashboard%20Screenshot%202.png)
+
+**Page 3: Delivery and Satisfaction**
+
+![Delivery and Satisfaction](images/Dashboard%20Screenshot%203.png)
+
+### Python analysis charts
+
+| Monthly revenue | Delay vs review |
 |---|---|
-![Executive Summary](images/Dashboard Screenshot 1.png)
-![Customer Segmentation](images/Dashboard Screenshot 2.png)
-![Delivery and Satisfaction](images/Dashboard Screenshot 3.png)
+| ![](images/01_monthly_revenue.png) | ![](images/03_delay_vs_review.png) |
+| ![](images/02_top_categories.png) | ![](images/05_rfm_segments.png) |
+
+## Repository structure
+
 ```
 sql/          SQL queries
 notebooks/    Python analysis (olist_analysis.ipynb)
