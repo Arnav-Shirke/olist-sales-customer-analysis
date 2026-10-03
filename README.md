@@ -45,14 +45,12 @@ SQL (PostgreSQL), Python (pandas, matplotlib, plotly), Power BI (data modelling,
 5. **Reduce geographic dependence:** recruit sellers and improve fulfilment for states outside SP so delivery times there fall.
 
 ## Dashboard preview
-![Dashboard](images/dashboard_screenshot.png)
 
 | | |
 |---|---|
-| ![](Dashboard Screenshot Page 1.png) | ![](Dashboard Screenshot Page 2.png) |
-| ![](Dashboard Screenshot Page 3.png) | 
-
-## Repository structure
+![Executive Summary](images/Dashboard Screenshot 1.png)
+![Customer Segmentation](images/Dashboard Screenshot 2.png)
+![Delivery and Satisfaction](images/Dashboard Screenshot 3.png)
 ```
 sql/          SQL queries
 notebooks/    Python analysis (olist_analysis.ipynb)
