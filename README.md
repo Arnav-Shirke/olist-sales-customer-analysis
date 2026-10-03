@@ -49,8 +49,8 @@ SQL (PostgreSQL), Python (pandas, matplotlib, plotly), Power BI (data modelling,
 
 | | |
 |---|---|
-| ![](images/01_monthly_revenue.png) | ![](images/03_delay_vs_review.png) |
-| ![](images/02_top_categories.png) | ![](images/05_rfm_segments.png) |
+| ![](Dashboard Screenshot Page 1.png) | ![](Dashboard Screenshot Page 2.png) |
+| ![](Dashboard Screenshot Page 3.png) | 
 
 ## Repository structure
 ```
