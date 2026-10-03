@@ -50,15 +50,16 @@ SQL (PostgreSQL), Python (pandas, matplotlib, plotly), Power BI (data modelling,
 
 **Page 1: Executive Summary**
 
-![Executive Summary](images/Dashboard%20Screenshot%201.png)
+<img width="1435" height="804" alt="Dashboard Screenshot Page 1" src="https://github.com/user-attachments/assets/e4756ea0-3bb8-4fbe-96a6-7fdaecdb9157" />
+
 
 **Page 2: Customer Segmentation**
 
-![Customer Segmentation](images/Dashboard%20Screenshot%202.png)
+<img width="1436" height="806" alt="Dashnoard Screenshot Page 2" src="https://github.com/user-attachments/assets/65685a23-36c2-44ef-96b2-ad574d037df6" />
 
 **Page 3: Delivery and Satisfaction**
 
-![Delivery and Satisfaction](images/Dashboard%20Screenshot%203.png)
+<img width="1433" height="801" alt="Dashboard Screenshot Page 3" src="https://github.com/user-attachments/assets/06ed3ced-483a-485a-90f8-b8e003aaec39" />
 
 ### Python analysis charts
 
