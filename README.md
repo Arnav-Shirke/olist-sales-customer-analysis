@@ -56,7 +56,7 @@ SQL (PostgreSQL), Python (pandas, matplotlib, plotly), Power BI (data modelling,
 ```
 sql/          SQL queries
 notebooks/    Python analysis (olist_analysis.ipynb)
-powerbi_data/ cleaned tables loaded into Power BI
+powerbi_data/ created when you run olist_pipeline.py (not uploaded, files are large)
 dashboard/    Power BI file (.pbix) and interactive HTML preview
 images/       charts and dashboard screenshots
 ```
